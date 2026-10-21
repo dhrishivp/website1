@@ -1,0 +1,132 @@
+{
+  "updated": "2026-10-21",
+  "currency": "£",
+  "categories": [
+    {
+      "id": "cold-starters",
+      "name": "Cold Starters",
+      "items": [
+        { "name": "Humus", "desc": "Crushed chickpeas blended with tahini, lemon and garlic.", "price": 6.95, "tags": ["v"] },
+        { "name": "Ali Nazik", "desc": "Smoked aubergine with yogurt.", "price": 6.95, "tags": ["v"] },
+        { "name": "Cacik", "desc": "Cucumber, yogurt, garlic and mint.", "price": 6.95, "tags": ["v"] },
+        { "name": "Yaprak Sarma", "desc": "Vine leaves stuffed with rice.", "price": 6.95, "tags": ["v"] },
+        { "name": "Tarama", "desc": "Creamy cod roe paste.", "price": 6.95, "tags": [] },
+        { "name": "Feta", "desc": "Turkish feta cheese.", "price": 6.95, "tags": ["v"] },
+        { "name": "Cold Mixed Meze for 2", "desc": "A selection of our cold starters to share.", "price": 18.95, "tags": ["share"] },
+        { "name": "Cold Mixed Meze for 4", "desc": "A larger selection of our cold starters to share.", "price": 26.0, "tags": ["share"] }
+      ]
+    },
+    {
+      "id": "hot-starters",
+      "name": "Hot Starters",
+      "items": [
+        { "name": "Halloumi Grill", "desc": "Chargrilled Cypriot halloumi.", "price": 8.5, "tags": ["v", "popular"] },
+        { "name": "Sigara Boregi", "desc": "Crisp filo rolls filled with feta cheese.", "price": 8.5, "tags": ["v"] },
+        { "name": "Garlic Mushrooms", "desc": "Mushrooms sautéed with garlic.", "price": 8.5, "tags": ["v"] },
+        { "name": "Falafel", "desc": "Chickpea and herb fritters.", "price": 7.0, "tags": ["v"] },
+        { "name": "Imam Bayildi", "desc": "Aubergine stuffed with onion, tomato and peppers.", "price": 8.5, "tags": ["v"] },
+        { "name": "Meat Kofte", "desc": "Grilled seasoned minced meat.", "price": 8.5, "tags": [] },
+        { "name": "Chicken Liver", "desc": "Pan-fried chicken liver.", "price": 9.0, "tags": [] }
+      ]
+    },
+    {
+      "id": "lamb",
+      "name": "Lamb from the Grill",
+      "note": "Served with rice and salad.",
+      "items": [
+        { "name": "Lamb Shish", "desc": "Marinated cubes of lamb grilled on a skewer.", "price": 22.0, "tags": ["popular"] },
+        { "name": "Adana Kebab", "desc": "Spicy minced lamb grilled on a skewer.", "price": 19.0, "tags": ["spicy", "popular"] },
+        { "name": "Lamb Beyti", "desc": "Grilled spicy minced lamb seasoned with garlic and parsley.", "price": 20.5, "tags": ["spicy"] },
+        { "name": "Lamb Shish & Kofte", "desc": "A skewer each of lamb shish and kofte.", "price": 21.5, "tags": [] },
+        { "name": "Lamb Chops", "desc": "Marinated lamb chops cooked over charcoal.", "price": 26.0, "tags": [] },
+        { "name": "Mixed Kebab", "desc": "Lamb shish, chicken shish and adana.", "price": 24.0, "tags": ["popular"] }
+      ]
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken from the Grill",
+      "note": "Served with rice and salad.",
+      "items": [
+        { "name": "Chicken Shish", "desc": "Marinated cubes of chicken grilled on a skewer.", "price": 20.0, "tags": ["popular"] },
+        { "name": "Chicken Kofte", "desc": "Spicy minced chicken grilled on a skewer.", "price": 19.0, "tags": ["spicy"] },
+        { "name": "Chicken Beyti", "desc": "Grilled spicy minced chicken seasoned with garlic, parsley and sauce.", "price": 20.5, "tags": ["spicy"] },
+        { "name": "Chicken Shish & Kofte", "desc": "A skewer each of chicken shish and chicken kofte.", "price": 21.5, "tags": [] },
+        { "name": "Chicken Wings", "desc": "Marinated wings cooked over charcoal.", "price": 19.5, "tags": [] },
+        { "name": "Just Chicken Platter", "desc": "Four chicken wings, a chicken shish skewer and a chicken kofte skewer.", "price": 24.5, "tags": [] }
+      ]
+    },
+    {
+      "id": "house-specialities",
+      "name": "House Specialities",
+      "note": "Served with rice.",
+      "items": [
+        { "name": "Lamb Iskender", "desc": "Lamb shish and kofte on crispy bread with yogurt, home-made tomato sauce and melted butter.", "price": 21.0, "tags": [] },
+        { "name": "Chicken Iskender", "desc": "Chicken shish and chicken kofte on crispy bread with yogurt, home-made tomato sauce and melted butter.", "price": 21.0, "tags": [] },
+        { "name": "Lamb Sarma Beyti", "desc": "Minced lamb with garlic, rolled in thin bread and served with yogurt and tomato sauce.", "price": 24.0, "tags": [] },
+        { "name": "Chicken Sarma Beyti", "desc": "Minced chicken with garlic, rolled in thin bread and served with yogurt and tomato sauce.", "price": 24.0, "tags": [] }
+      ]
+    },
+    {
+      "id": "fish",
+      "name": "Fish",
+      "items": [
+        { "name": "Sea Bass", "desc": "Whole grilled sea bass, served with salad and chips.", "price": 24.5, "tags": [] },
+        { "name": "Grilled Salmon", "desc": "Served with rice and salad.", "price": 24.5, "tags": [] },
+        { "name": "Pan-Cooked Salmon", "desc": "Salmon cooked in the pan, served with rice.", "price": 24.5, "tags": [] },
+        { "name": "King Prawns (8 pcs)", "desc": "Served with rice.", "price": 24.5, "tags": [] }
+      ]
+    },
+    {
+      "id": "vegetarian",
+      "name": "Vegetarian Mains",
+      "items": [
+        { "name": "Vegetarian Kebab", "desc": "Grilled vegetables, served with rice and salad.", "price": 19.95, "tags": ["v"] },
+        { "name": "Vegetarian Musakka", "desc": "Layered aubergine and vegetables, served with rice.", "price": 19.95, "tags": ["v"] },
+        { "name": "Veggie Guvec", "desc": "Vegetable casserole, served with rice.", "price": 19.95, "tags": ["v"] },
+        { "name": "Imam Bayildi", "desc": "Stuffed aubergine, served with rice.", "price": 19.5, "tags": ["v"] },
+        { "name": "Falafel", "desc": "Served with rice, humus and salad.", "price": 19.0, "tags": ["v"] }
+      ]
+    },
+    {
+      "id": "wraps",
+      "name": "Wraps",
+      "note": "Served with salad.",
+      "items": [
+        { "name": "Chicken Shish Wrap", "desc": "", "price": 17.0, "tags": [] },
+        { "name": "Lamb Shish Wrap", "desc": "", "price": 17.0, "tags": [] },
+        { "name": "Adana Wrap", "desc": "", "price": 17.0, "tags": ["spicy"] },
+        { "name": "Chicken Kofte Wrap", "desc": "", "price": 17.0, "tags": ["spicy"] },
+        { "name": "Halloumi & Humus Wrap", "desc": "", "price": 17.0, "tags": ["v"] },
+        { "name": "Falafel Wrap", "desc": "", "price": 17.0, "tags": ["v"] }
+      ]
+    },
+    {
+      "id": "kids",
+      "name": "Kids Menu",
+      "note": "For children up to 12.",
+      "items": [
+        { "name": "Chicken Shish & Chips", "desc": "", "price": 14.95, "tags": [] },
+        { "name": "Lamb Shish & Chips", "desc": "", "price": 14.95, "tags": [] },
+        { "name": "Kofte Kebab & Chips", "desc": "", "price": 14.95, "tags": [] },
+        { "name": "Chicken Nuggets", "desc": "", "price": 14.95, "tags": [] },
+        { "name": "Chicken Burger", "desc": "", "price": 14.95, "tags": [] },
+        { "name": "Two Lamb Chops", "desc": "", "price": 17.0, "tags": [] }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "Sides",
+      "items": [
+        { "name": "Chips", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "Rice", "desc": "Cooked with butter.", "price": 4.5, "tags": ["v"] },
+        { "name": "Onion Rings", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "BBQ Onions", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "BBQ Tomatoes", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "BBQ Peppers", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "Olives", "desc": "", "price": 4.5, "tags": ["v"] },
+        { "name": "Bread", "desc": "", "price": 4.0, "tags": ["v"] },
+        { "name": "Extra Sauce", "desc": "", "price": 2.0, "tags": ["v"] }
+      ]
+    }
+  ]
+}
